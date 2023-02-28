@@ -1,5 +1,5 @@
 # Scheduling Graph
-This is a React application that displays a scheduling graph chart based on data from a JSON file. The graph chart shows the count of schedules by date and time. It also displays the prior scheduling time distribution for a selected period and the scheduling by hour for a selected date.
+This is a React application that displays a scheduling graph chart based on data from a JSON file. The graph chart shows the count of schedules by date and time.
 
 # Usage
 1. On the home page, the scheduling graph chart is displayed.
