@@ -10,4 +10,3 @@ This project was built using the following libraries and tools:
 
 1. React
 2. Recharts
-3. Moment.js
